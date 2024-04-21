@@ -4,8 +4,8 @@ This project is a slab-based billing system for generating monthly electricity b
 
 ## Technologies Used
 
-- **Programming Language:** Java 11+
-- **Framework:** Spring Boot
+- **Programming Language:** Java 21
+- **Framework:** Spring Boot 3.2.4
 - **Database:** Postgresql (can be configured to use other databases)
 
 ## Features
@@ -23,7 +23,7 @@ The API documentation is available at [API Documentation](http://localhost:8088/
 
 ### Prerequisites
 
-- Java 11+ installed
+- Java 21 installed
 - Postgresql database installed and running
 
 ### Installation
