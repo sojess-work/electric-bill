@@ -31,7 +31,7 @@ The API documentation is available at [API Documentation](http://localhost:8088/
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/slab-based-billing-system.git
+   git clone https://github.com/sojess-work/electric-bill.git
 
 2.Update the application.yml file with your database configuration:
 
