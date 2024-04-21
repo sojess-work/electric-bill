@@ -17,7 +17,7 @@ This project is a slab-based billing system for generating monthly electricity b
 
 ## API Documentation
 The API documentation is done it in the swagger ui, you need to run your application in local to get the API documentation details.
-The API documentation is available at [API Documentation](http://localhost:8088/swagger-ui/index.html) (Replace # with actual API documentation URL).
+The API documentation is available at [API Documentation](http://localhost:8088/swagger-ui/index.html).
 
 ## Getting Started
 
