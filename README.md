@@ -26,9 +26,7 @@ The API documentation is available at [API Documentation](http://localhost:8088/
 ### Prerequisites
 
 - Java 11+ installed
-- MySQL database installed and running
-- Docker (for containerization)
-- Kubernetes (for cloud deployment)
+- Postgresql database installed and running
 
 ### Installation
 
