@@ -17,6 +17,9 @@ This project is a slab-based billing system for generating monthly electricity b
 - **Electricity Reading:** Record monthly electricity consumption readings for customers.
 - **Bill Calculation:** Generate monthly bills based on consumption and tariff rates.
 
+## API Documentation
+
+The API documentation is available at [API Documentation](http://localhost:8088/swagger-ui/index.html) (Replace # with actual API documentation URL).
 
 ## Getting Started
 
@@ -45,4 +48,5 @@ This project is a slab-based billing system for generating monthly electricity b
 ### Usage
 
 - Use POSTman or any API testing tool to access the APIs.
+- Refer to the API Documentation for detailed API usage instructions.
 
