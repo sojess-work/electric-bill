@@ -6,9 +6,7 @@ This project is a slab-based billing system for generating monthly electricity b
 
 - **Programming Language:** Java 11+
 - **Framework:** Spring Boot
-- **Database:** MySQL (can be configured to use other databases)
-- **Deployment:** Docker, Kubernetes (for cloud deployment)
-- **Security:** Spring Security, JWT tokens
+- **Database:** Postgresql (can be configured to use other databases)
 
 ## Features
 
