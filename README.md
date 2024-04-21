@@ -37,7 +37,7 @@ The API documentation is available at [API Documentation](http://localhost:8088/
 
     spring:
       datasource:
-        url: jdbc:mysql://localhost:3306/billing_system
+        url: jdbc:postgresql://localhost:5432/postgres
         username: your_username
         password: your_password
 
