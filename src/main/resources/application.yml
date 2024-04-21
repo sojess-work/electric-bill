@@ -1,0 +1,28 @@
+server:
+  port: 8088
+
+spring:
+  profiles:
+    active: local
+  application:
+    name: customermanagement
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate:
+        hbm2ddl.auto: validate
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres?currentSchema=electricbill
+    username: sojesssmac
+    password:
+    driver-class-name: org.postgresql.Driver
+
+
+custMgmtConfig:
+  units:
+    updateDate: 28
+
+
+
+
